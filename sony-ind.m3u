@@ -76,10 +76,10 @@
             position: absolute;
             border-radius: 50%;
             background: rgba(255, 255, 255, 0.2);
-            animation: 
+            animation: "
 #EXTM3U
 
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SET-HD-New-Logo.png" group-title="Entertainment" , Sоnу SET HD
+#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-300x300.png" group-title="Entertainment" , Sоnу SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1760947210~acl=%2f*~id=f6d3bf2b-fd55-4ee7-91b5-e1153ce6cf8e~data=hdntl~hmac=70aa344776dfbf3adba77e8ce54512a5687db6b146c4576e4c2da65c5e1840ae/master_3500.m3u8
 
@@ -167,10 +167,10 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1760947210~acl=%2f*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1760947210~acl=%2f*~id=f6d3bf2b-fd55-4ee7-91b5-e1153ce6cf8e~data=hdntl~hmac=70aa344776dfbf3adba77e8ce54512a5687db6b146c4576e4c2da65c5e1840ae/master_3500.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" group-title="Sports" , Sоnу Sports Ten 5 HD!
+#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" group-title="Sports" , !Sоnу Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1760947210~acl=%2f*~id=f6d3bf2b-fd55-4ee7-91b5-e1153ce6cf8e~data=hdntl~hmac=70aa344776dfbf3adba77e8ce54512a5687db6b146c4576e4c2da65c5e1840ae/master_3500.m3u8
-            ;
+"            ;
         }
 
         @keyframes fadeIn {
